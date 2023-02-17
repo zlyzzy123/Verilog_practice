@@ -1,0 +1,8 @@
+C:/Users/zhang/Desktop/Bus_protocol/IIC/my_i2c/i2c.v {1 {vlog -work iic_sim -vopt -stats=none C:/Users/zhang/Desktop/Bus_protocol/IIC/my_i2c/i2c.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module i2c
+
+Top level modules:
+	i2c
+
+} {} {}}

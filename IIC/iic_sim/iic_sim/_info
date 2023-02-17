@@ -1,0 +1,44 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/software/code/modelsim/examples
+T_opt
+!s110 1676363265
+V=]H0I[HS^_JW=`AR3mAdS1
+04 3 4 work i2c fast 0
+=1-dce9947c4c75-63eb45fe-3c5-2ed8
+o-quiet -auto_acc_if_foreign -work iic_sim
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vi2c
+!s110 1676364996
+!i10b 1
+!s100 ej5KVaYTklY5Y3OX_T@[K1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I1Do64N_AUTkN0Hi6]9^>c0
+dC:/Users/zhang/Desktop/Bus_protocol/IIC/iic_sim
+w1676360894
+8C:/Users/zhang/Desktop/Bus_protocol/IIC/my_i2c/i2c.v
+FC:/Users/zhang/Desktop/Bus_protocol/IIC/my_i2c/i2c.v
+!i122 2
+L0 1 476
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1676364996.000000
+!s107 C:/Users/zhang/Desktop/Bus_protocol/IIC/my_i2c/i2c.v|
+!s90 -reportprogress|300|-work|iic_sim|-vopt|-stats=none|C:/Users/zhang/Desktop/Bus_protocol/IIC/my_i2c/i2c.v|
+!i113 0
+o-work iic_sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
